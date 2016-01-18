@@ -1,5 +1,5 @@
 {
-  "name": "angular-bootstrap-confirm",
+  "name": "angular-bootstrap-confirm-ssq",
   "version": "1.0.0",
   "description": "Displays a bootstrap confirmation popover when clicking the given element.",
   "browser": "dist/angular-bootstrap-confirm.js",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mattlewis92/angular-bootstrap-confirm.git"
+    "url": "git+https://github.com/jetwaves/angular-bootstrap-confirm-ssq.git"
   },
   "keywords": [
     "angular",
@@ -28,9 +28,9 @@
   "author": "Matt Lewis",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mattlewis92/angular-bootstrap-confirm/issues"
+    "url": "https://github.com/jetwaves/angular-bootstrap-confirm-ssq/issues"
   },
-  "homepage": "https://github.com/mattlewis92/angular-bootstrap-confirm#readme",
+  "homepage": "https://github.com/jetwaves/angular-bootstrap-confirm-ssq#readme",
   "devDependencies": {
     "angular": ">=1.3.0",
     "angular-mocks": ">=1.3.0",
